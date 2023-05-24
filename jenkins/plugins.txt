@@ -1,0 +1,10 @@
+authorize-project
+job-dsl
+workflow-aggregator
+git
+configuration-as-code
+htmlpublisher
+ws-cleanup
+jacoco
+nunit
+matrix-auth
